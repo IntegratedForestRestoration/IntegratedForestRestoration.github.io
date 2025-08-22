@@ -21,15 +21,14 @@ Taking advantage of advances in cross-sectors is imperative to achieve the resto
 
 Engagement
 ==========
-News, cutting-edge techniques and articles focused on the topic of integrated forest restoration will be shared monthly through e-mail. To sign up, please click HERE 
+News, cutting-edge techniques, and articles focused on the topic of integrated forest restoration will be shared monthly through e-mail. To sign up, please click HERE 
 
 Specifically, the e-mails will include: 
 
 forest restoration advances related to the different aspects of the ecosystem
 cutting-edge techniques for forest restoration management, implementation and monitoring; 
 information on seminars and video resources; 
-opportunities for collaborations. 
-Resources and links to videos and organised meetings will also be present on the official website (available from 31 August 2025). 
+opportunities for collaborations.
 
 Contacts
 ======
