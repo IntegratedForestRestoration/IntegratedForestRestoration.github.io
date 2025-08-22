@@ -9,56 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+General
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* [Moving biodiversity from an afterthought to a key outcome of forest restoration] (https://www.nature.com/articles/s44358-025-00032-1)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Vegetation related
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [Seeding success: Integrating seed dispersal networks in tropical forest restoration] (https://onlinelibrary.wiley.com/doi/full/10.1111/btp.13347)
+* [Enhancing the performance of native tree plantings in a seasonally dry mountain forest: the effects of elevation, irrigation and herbaceous cover] (https://onlinelibrary.wiley.com/doi/full/10.1111/rec.70082)
+* [Restoration treatments enhance tree growth and alter climatic constraints during extreme drought](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.3072) 
