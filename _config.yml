@@ -23,7 +23,7 @@ repository               : "IntegratedForestRestoration/IntegratedForestRestorat
 author:
   # Biographic information
   avatar           : "LOGOIFR.jpg"
-  name             : "Your Sidebar Name"
+  name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : #"(SIN of ESA"
   location         : #"Earth"
