@@ -25,14 +25,14 @@ author:
   avatar           : "LOGOIFR.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : #"(SIN of ESA"
+  location         : #"Earth"
+  employer         : #"Red Brick University"
+  uri              : "https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/"
+  email            : "integratedforestrestoration@gmail.com" 
 
   # Academic websites
-  academia         : "https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/"
+  academia         : #"https://www.ecolsoc.org.au/category/research-chapters/integrated-forest-restoration/"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
