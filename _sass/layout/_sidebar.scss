@@ -99,7 +99,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 2px green;
+      border: 2px solid lightblue;
     }
   }
 }
