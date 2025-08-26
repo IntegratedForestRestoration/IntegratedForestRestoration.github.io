@@ -22,7 +22,7 @@ repository               : "IntegratedForestRestoration/IntegratedForestRestorat
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LOGOIFR.jpg"
+  avatar           : "profile.jpg"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : #"(SIN of ESA"
